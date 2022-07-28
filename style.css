@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+.title{
+    margin-top: 2%;
+}
+
+h1{
+    font-size: 4rem;
+    display: inline;
+}
+
+.visible{
+    visibility: visible;
+}
+
+.flag{
+    width: 5%;
+    visibility: hidden;
+}
+
+
+.btn{
+    margin-top: 5%;
+}
+
+.player{
+    margin: 3%;
+}
+
